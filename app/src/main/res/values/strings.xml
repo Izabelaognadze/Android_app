@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Izabela_Ognadze_Final</string>
+    <string name="link">@GovernmentGeo</string>
+    <string name="gharibashvii">@GharibashviliGe ・ Jun 14</string>
+    <string name="lorem_ipsum">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Ble">@BleacheReport ・ 7h</string>
+    <string name="Gha">@FabrizioRomano ・ 9h</string>
+</resources>
